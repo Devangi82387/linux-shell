@@ -18,7 +18,6 @@ It should work in the similar manner as popular shells like bash, zsh etc. To ru
   - Background and foreground processes.
   - ls command implemented separately
   - Exit and Quit commands for quitting the shell
-- Non Standard "user-defined" commands:
   - fg <jobNumber> : brings a running or a stopped background job with given job number to foreground.
   - bg <jobNumber> : changes a stopped background job to a running background job.
 
