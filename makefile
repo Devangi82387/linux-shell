@@ -9,6 +9,8 @@ mysh: \
 			execute.o \
 			builtins.o \
 			piping.o \
+			parse.o \
+			prompt.o \
 			process.o \
 			redirect.o	
 	$(CC) -g -o mysh $^
