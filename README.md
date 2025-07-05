@@ -6,7 +6,6 @@ A simple shell implemented in C.
 
 - Modular Code
 - Color added for specific purposes.
-- Proper error handling for each command.
 - Proper handling of Ctrl+Z and Ctrl+C - similar to what happens in a normal terminal.
 - Input/output redirection functionality.
 - Command can be redirected using pipes as well as combination of pipes and I/O redirections.
