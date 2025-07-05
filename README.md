@@ -2,8 +2,6 @@
 
 A simple shell implemented in C.
 
-It should work in the similar manner as popular shells like bash, zsh etc. To run a command, type it into the shell and press Enter. All commands are terminated with newline character.
-
 ### Features:
 
 - Modular Code
